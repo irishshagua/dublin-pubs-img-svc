@@ -1,5 +1,3 @@
-enablePlugins(JavaAppPackaging)
-
 name         := """dublin-pubs-image-svc"""
 organization := "com.mooneyserver"
 version      := "1.0"
